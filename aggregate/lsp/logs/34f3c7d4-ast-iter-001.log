@@ -1,0 +1,7 @@
+[2026-11-23T02:40:19Z] === AST ITERATION 1 START | repo=serde-rs/bytes sha=34f3c7d4 ===
+[2026-11-23T02:40:19Z] [iter=1] PHASE START: ast repo=serde-rs/bytes sha=34f3c7d4
+[2026-11-23T02:40:19Z] [iter=1] Building AST aggregate chunks
+[2026-11-23T02:40:25Z] [iter=1] AST chunks built count=1 triples=57169
+[2026-11-23T02:40:25Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/34f3c7d442716d0f28db7c3641882648ce387b60/.complete
+[2026-11-23T02:40:25Z] [iter=1] PHASE END: ast elapsed_s=6 elapsed_min=0.1
+[2026-11-23T02:40:25Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
